@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main(){
-  printf("PR Best\n");
+  printf("PR Best PR\n");
 }
